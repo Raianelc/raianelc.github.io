@@ -16,9 +16,13 @@ input, button, textarea, select { font: inherit }
 /* Mobiles */
 @media (max-width: 767px) { section { padding: 12% 8% } }
 
+body { background-color: lightblue; }
+
+
 h2 {
     font-size: 56px;
     margin-bottom: 4px;
+    color: blue;
 }
 
 h3 {
@@ -30,6 +34,8 @@ p {
     font-size: 20px;
     margin-bottom: 16px
 }
+
+a { color: blue; }
 
 
 :root {
